@@ -64,6 +64,9 @@
   <a href="https://github.com/vladimirmenezes-cpu">
     <img src="https://img.shields.io/badge/GitHub-vladimirmenezes--cpu-181717?style=flat-square&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/vladimirgenonadio">
+    <img src="https://img.shields.io/badge/LinkedIn-vladimirgenonadio-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
