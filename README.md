@@ -1,9 +1,7 @@
 <h1 align="center">Olá! Eu sou Vladimir Menezes 👨‍💻</h1>
-
 <p align="center">
   <em>Estudante técnico de Desenvolvimento de Sistemas · Apaixonado por código e IA</em>
 </p>
-
 <p align="center">
   <a href="https://github.com/vladimirmenezes-cpu">
     <img src="https://komarev.com/ghpvc/?username=vladimirmenezes-cpu&label=Visitas+ao+perfil&color=0e75b6&style=flat" alt="vladimirmenezes-cpu" />
@@ -42,7 +40,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vladimirmenezes-cpu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirmenezes-cpu&layout=compact&langs_count=6&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vladimirmenezes-cpu&theme=tokyonight" />
 </p>
@@ -53,9 +50,10 @@
 
 | Projeto | Descrição | Tecnologia |
 |--------|-----------|------------|
+| [nexusstore-api](https://github.com/vladimirmenezes-cpu/nexusstore-api) | API REST da NexusStore | JavaScript |
+| [portfolio](https://github.com/vladimirmenezes-cpu/portfolio) | Meu portfólio pessoal | CSS |
+| [giro-app](https://github.com/vladimirmenezes-cpu/giro-app) | Aplicativo Giro | TypeScript |
 | [CeloDuels](https://github.com/vladimirmenezes-cpu/celoduels) | Projeto de duelos desenvolvido em TypeScript | TypeScript |
-| [AULAS-IA](https://github.com/vladimirmenezes-cpu/AULAS-IA) | Estudos e exercícios sobre Inteligência Artificial | Python |
-| [AULAS-AGENTES-IA](https://github.com/vladimirmenezes-cpu/AULAS-AGENTES-IA) | Exploração de agentes de IA | Python |
 | [Programa-o-de-APP](https://github.com/vladimirmenezes-cpu/Programa-o-de-APP) | Atividades de Programação de Aplicativos | Python |
 
 ---
