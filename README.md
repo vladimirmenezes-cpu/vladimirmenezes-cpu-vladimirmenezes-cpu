@@ -37,11 +37,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vladimirmenezes-cpu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vladimirmenezes-cpu&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirmenezes-cpu&layout=compact&langs_count=6&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vladimirmenezes-cpu&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=vladimirmenezes-cpu&theme=tokyonight" />
 </p>
 
 ---
